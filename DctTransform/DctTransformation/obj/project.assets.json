@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HomeProject\\DctTransform\\DctTransform\\DctTransform.csproj",
-      "projectName": "DctTransform",
-      "projectPath": "D:\\HomeProject\\DctTransform\\DctTransform\\DctTransform.csproj",
+      "projectUniqueName": "D:\\HomeProject\\DctTransform\\DctTransformation\\DctTransform\\DctTransformation\\DctTransformation.csproj",
+      "projectName": "DctTransformation",
+      "projectPath": "D:\\HomeProject\\DctTransform\\DctTransformation\\DctTransform\\DctTransformation\\DctTransformation.csproj",
       "packagesPath": "C:\\Users\\alekseeva\\.nuget\\packages\\",
-      "outputPath": "D:\\HomeProject\\DctTransform\\DctTransform\\obj\\",
+      "outputPath": "D:\\HomeProject\\DctTransform\\DctTransformation\\DctTransform\\DctTransformation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

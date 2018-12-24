@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DctTransform", "DctTransform\DctTransform.csproj", "{CF510D51-DF16-467A-83DB-C77524F9BB4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DctTransformation", "DctTransformation\DctTransformation.csproj", "{7E069FA7-A6E6-4A1E-8CB2-991CBADBF070}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CF510D51-DF16-467A-83DB-C77524F9BB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF510D51-DF16-467A-83DB-C77524F9BB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF510D51-DF16-467A-83DB-C77524F9BB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF510D51-DF16-467A-83DB-C77524F9BB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E069FA7-A6E6-4A1E-8CB2-991CBADBF070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E069FA7-A6E6-4A1E-8CB2-991CBADBF070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E069FA7-A6E6-4A1E-8CB2-991CBADBF070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E069FA7-A6E6-4A1E-8CB2-991CBADBF070}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {12C10EDD-D08F-4E69-9064-B75BF63D4E3D}
+		SolutionGuid = {8CF8D9CE-94A8-4FDD-AFEC-3F06D33DDA82}
 	EndGlobalSection
 EndGlobal
