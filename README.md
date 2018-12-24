@@ -1,3 +1,4 @@
 # DctTransformation
 DctTransformation
-TODO: Добавить обратное преобразование фурье
+DCT - compress data
+IDCT - recover data
